@@ -1,6 +1,5 @@
 # ListMk25
 Lista actual25
-# List2024
 #EXTM3U 
 #EXTINF:-1 tvg-id="LN" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", LN+
 http://181.13.173.86:8000/play/a01s/index.m3u8
